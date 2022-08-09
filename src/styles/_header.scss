@@ -50,6 +50,9 @@
   .link {
     color: #FFF;
     text-decoration: none;
+	border: solid;
+	border-color: white;
+	border-radius: 30px;
     font-size: 15px;
     margin: 10px;
     @media only screen and (min-width:$cut){
