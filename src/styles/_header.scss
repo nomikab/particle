@@ -24,12 +24,12 @@
   -webkit-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   .site-title {
+	margin-bottom:10px;
     font-size: 50px;
     display: block;
     line-height: 1;
     color: #FFF;
     @media only screen and (min-width:$cut){
-      margin: 0;
       font-size: 100px;
     }
   }
