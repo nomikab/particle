@@ -47,13 +47,13 @@
 
 .header-links {
   margin: 10px;
+  border: solid;
+  border-color: white;
+  border-radius: 30px;
+  border-width: thick;
   .link {
     color: #FFF;
     text-decoration: none;
-	border: solid;
-	border-width: thick;
-	border-color: white;
-	border-radius: 30px;
     font-size: 15px;
     margin: 10px;
     @media only screen and (min-width:$cut){
